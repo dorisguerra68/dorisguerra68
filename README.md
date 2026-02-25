@@ -1,16 +1,26 @@
-## Hi there 👋
+# 😻!Hola¡ Soy Doris Guerra Loreto
 
-<!--
-**dorisguerra68/dorisguerra68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente me estoy formando como **Full Stack Developer**en Factoría F5 https: //Factoria5.org
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   `🔭`Estoy trabajando en proyectos web de frontend (por los momentos)
+-   `🌱`Aprendiendo activamente tecnologías modernas y metodologías ágiles
+-   `⚡`Interés especial en el desarrollo ****Full Stack**** y en cómo la tecnología puede reducir la brecha digital
+
+
+## 🛠️Las tecnologías que estoy aprendiendo
+
+-   **HTML**
+-   **CSS**
+-   **JavaScript**
+
+**Mis proyectos en Factoría F5**
+
+-   ****📊Your-about-me (https://github.com/Yeraldsb/your-about-me)****
+
+  
+
+  
+
+##
